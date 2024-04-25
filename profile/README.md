@@ -6,6 +6,12 @@ La plateforme Cloud π Native propose une usine logicielle et un orchestrateur D
 
 Acteur du service public, industriel ou contributeur de l'Open Source, vous contribuez au numérique public et souhaitez expérimenter l'offre ? Faites-nous part de propositions/demandes d'expérimentation. Nos équipes accompagnent les expérimentations à but non-lucratif : elles n'examineront et ne répondront à AUCUNE sollicitation commerciale.
 
+## Liens utiles
+
+Site de documentation Cloud Pi Native : https://cloud-pi-native.fr
+
+Dépôt de chart Helm Cloud Pi Native : https://cloud-pi-native.github.io/helm-charts
+
 ## Contacts
 
 cloudpinative-relations@interieur.gouv.fr
