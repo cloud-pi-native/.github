@@ -10,7 +10,7 @@ Acteur du service public, industriel ou contributeur de l'Open Source, vous cont
 
 Site de documentation Cloud Pi Native : https://cloud-pi-native.fr
 
-Dépôt de chart Helm Cloud Pi Native : https://cloud-pi-native.github.io/helm-charts
+Dépôt de chart Helm Cloud Pi Native : https://cloud-pi-native.github.io/helm-charts *- (L'index est disponible [ici](https://cloud-pi-native.github.io/helm-charts/index.yaml))*
 
 ## Contacts
 
